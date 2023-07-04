@@ -12,6 +12,7 @@ This will create the final executable named as `main`.
 
 ## Usage
 **Note: This is just an educational project, and I do NOT recommend it for production use.**
+- Port number can be specified in the constructor of `httpServer` object.
 - Create a routing table in the `main.cpp` file.
 - Add some routes to it.
 - The routes should also specify the files to be served for those routes.
